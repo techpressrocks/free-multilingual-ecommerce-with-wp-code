@@ -2,6 +2,7 @@ Useful Code Snippets - Book "Free Multilingual E-commerce With WordPress, WooCom
 =====================
 
 free-multilingual-ecommerce-code-snippets.txt - Contains useful WordPress functions.
+
 wpml-config.xml - Allows you translate WooCommerce strings.
 
 The book "Free Multilingual E-commerce With WordPress, WooCommerce & Polylang" explains how to use these two files in detail.
